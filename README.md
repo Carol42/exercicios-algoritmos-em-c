@@ -8,7 +8,7 @@ Escrever um algoritmo para determinar o consumo médio de um automóvel sendo  f
 <details>
 <summary>Exercício 2</summary>
 Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de  
-vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 12%  de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no  final do mês.  
+vendas efetuadas por ele no mês (em dinheiro. Sabendo que este vendedor ganha 12%  de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no  final do mês.  
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/fluxo-sequencial/2-salario_vendedor.c">Ver solução</a>  
 </details>
 <details>
@@ -102,7 +102,7 @@ Faça um algoritmo que leia 2 conjunto com 50 números inteiros e geres um terce
 </details>
 <details>
 <summary>Exercício 2</summary>
-Faca um algoritmo que leia um conjunto A com 30 números inteiros e que armazene em um conjunto B do mesmo tipo os elementos de A multiplicados por 3. Apresente o conjunto B.
+Faça um algoritmo que leia um conjunto A com 30 números inteiros e que armazene em um conjunto B do mesmo tipo os elementos de A multiplicados por 3. Apresente o conjunto B.
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/variaveis-indexadas/2-conjunto_multiplicado_3.c">Ver solução</a>  
 </details>
 
@@ -128,4 +128,17 @@ valor de X N .
 Função que receba como parâmetro um inteiro positivo N e retorne a soma de
 todos os números inteiros entre 0 e N.
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/modularizacao-e-subalgoritmos/4-modulos.c">Ver solução</a>  
+</details>
+
+
+### Desafios Extras
+<details>
+<summary>Números primos</summary>
+Crie um programa em linguagem C que leia  100 números inteiros positivos e informe se o número é primo. 
+<a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/desafios/1-numeros-primos.c">Ver solução</a>  
+</details>
+<details>
+<summary>Troca da Diagonal da Matriz</summary>
+Construa um programa em linguagem C que leia uma matriz quadrada M[N][N] de valores inteiros e troque  os elementos da diagonal principal com a secundária.
+<a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/desafios/2-troca-diagonal-matriz.c">Ver solução</a>  
 </details>
