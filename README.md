@@ -1,3 +1,5 @@
+<div id="top"></div>
+<img alt="algoritmos em c" src="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/assets/header.png">
 
 ### Fluxo Sequencial
 <details>
@@ -142,3 +144,4 @@ Crie um programa em linguagem C que leia  100 números inteiros positivos e info
 Construa um programa em linguagem C que leia uma matriz quadrada M[N][N] de valores inteiros e troque  os elementos da diagonal principal com a secundária.
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/desafios/2-troca-diagonal-matriz.c">Ver solução</a>  
 </details>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=5C6DBF&style=flat&logo" alt="voltar ao topo" /></a></p>
