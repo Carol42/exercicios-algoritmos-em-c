@@ -1,5 +1,5 @@
 <div id="top"></div>
-<img alt="algoritmos em c" src="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/assets/header.png">
+<img width="100%" alt="algoritmos em c" src="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/assets/header.png">
 
 ### Fluxo Sequencial
 <details>
