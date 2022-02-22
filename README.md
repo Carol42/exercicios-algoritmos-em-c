@@ -121,14 +121,12 @@ Calcular o MDC de dois números
 </details>
 <details>
 <summary>Exercício 3</summary>
-Função que receba como parâmetros um número real X e um inteiro N e retorne o
-valor de X N .
+Função que receba como parâmetros um número real X e um inteiro N e retorne o valor de X elevado a N.
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/modularizacao-e-subalgoritmos/3-exponencial.c">Ver solução</a>  
 </details>
 <details>
 <summary>Exercício 4</summary>
-Função que receba como parâmetro um inteiro positivo N e retorne a soma de
-todos os números inteiros entre 0 e N.
+Função que receba como parâmetro um inteiro positivo N e retorne a soma de todos os números inteiros entre 0 e N.
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/modularizacao-e-subalgoritmos/4-modulos.c">Ver solução</a>  
 </details>
 
