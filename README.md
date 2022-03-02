@@ -1,6 +1,32 @@
 <div id="top"></div>
 <img width="100%" alt="algoritmos em c" src="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/assets/header.png">
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/exercicios-algoritmos-em-c?color=181717&logo=github&style=plastic&logoColor=181717">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Carol42/exercicios-algoritmos-em-c?color=5C6DBF&logo=c&style=plastic&logoColor=5C6DBF">
+
+## :pushpin: Sobre
+Este repositório conta com os principais exercícios e desafios que desenvolvi enquanto estudava linguagem C.
+
+Alguns deles foram desenvolvidos durante o curso de "Lógica de Programação e Algoritmos", que finalizei em 2019, na instituição King Cursos.
+
+Outros foram desenvolvidos durante a disciplina "Algoritmos e Programação Estruturada", cursada em 2021 e início de 2022, no curso Engenharia de Computação da UEPG.
+
+## :link: Links para os códigos 
+
+### Exemplos iniciais
+<ol>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/1-media.c">Calcula a média de um aluno.</a> </li>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/2-idade-para-votar.c">Verifica, a partir da idade fornecida, se a pessoa não pode, pode ou deve votar.</a></li> 
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/3-verifica-data.c">Verifica se uma data é válida (apenas dia e mês).</a> </li>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/4-maior-numero.c">Retorna qual dos 3 números fornecidos é o maior.</a> </li>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/5-imprime-10-vezes.c">Imprime 10 vezes a frase, utilizando as diferentes estruturas de repetição da linguagem C.</a> </li>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/6-tabuada.c">Imprime a tabuada de um número fornecido pelo usuário.</a> </li>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/7-sorteia-numeros.c">Retorna 60 números aleatórios.</a> </li>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/8-vetores.c">Diversas ações com vetores.</a> </li>
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/9-acima-da-media.c">Lê 10 notas e diz quais estão acima da média entre todas elas.</a></li> 
+    <li><a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/exemplos/10-matrix-aleotoria.c">Preenche uma matriz 10x10 com números aleatórios.</a></li>
+</ol> 
+
 ### Fluxo Sequencial
 <details>
 <summary>Exercício 1</summary>
@@ -130,7 +156,6 @@ Função que receba como parâmetro um inteiro positivo N e retorne a soma de to
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/modularizacao-e-subalgoritmos/4-modulos.c">Ver solução</a>  
 </details>
 
-
 ### Desafios Extras
 <details>
 <summary>Números primos</summary>
@@ -142,4 +167,17 @@ Crie um programa em linguagem C que leia  100 números inteiros positivos e info
 Construa um programa em linguagem C que leia uma matriz quadrada M[N][N] de valores inteiros e troque  os elementos da diagonal principal com a secundária.
 <a href="https://github.com/Carol42/exercicios-algoritmos-em-c/blob/main/desafios/2-troca-diagonal-matriz.c">Ver solução</a>  
 </details>
+
+## :woman_technologist: A desenvolvedora
+
+<img src="https://avatars.githubusercontent.com/u/63017741?v=4" width="100px" alt="foto da desenvolvedora"/>
+<br/>
+<strong>Caroline Heloíse de Oliveira</strong>
+<br/>
+<sup>Estudante de Engenharia de Computação (UEPG)</sup>
+<br/>
+<a href="https://github.com/Carol42"><img src="https://img.shields.io/static/v1?label&message=Carol42&color=181717&style=plastic&logo=github" alt="link para o meu GitHub" /></a>
+<a href="https://linkedin.com/in/carol42"><img src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=plastic&logo=linkedin" alt="link para o meu LinkedIn" /></a>
+<a href="mailto:carol42.helo@gmail.com"><img src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=plastic&logo=gmail" alt="link para me mandar um e-mail" /></a>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=5C6DBF&style=flat&logo" alt="voltar ao topo" /></a></p>
